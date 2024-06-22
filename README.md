@@ -25,7 +25,7 @@ In RockinProjex, referred to as RPX from now, you will see the home screen. Plea
 
 There are many pages, but the start page will only take you to some of the other pages. RPX is a project site where many of the things featured are fun web projects. 
 
-Here's the run-down:
+Here's the run-down *after* pressing the _hamburger menu_:
 
 # Tree 1: Games + Interactives
 
