@@ -73,4 +73,7 @@ You may also navigate to other main trees.
 
 Those were the main 3 trees. There may be more soon, but those are the current ones. You will be able to find misc content using the misc. section, but it won't be as prominent.
 
-As for what next, 
+As for what next, <a href="https://docs.google.com/forms/d/e/1FAIpQLSfGH5dRuRHJjkZ_yLVOuoDF9GAXfi9WpJWrAtQf9KKGRSI3Ng/viewform?vc=0&c=0&w=1&flr=0">Request An Addition (Forms)</a> to help the site grow.
+After all, it's all about what the people want, not me.
+
+You can donate on patreon too. (https://www.patreon.com/RockinProjex)
