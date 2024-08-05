@@ -1,4 +1,4 @@
-# RockinProjex
+# 𝙍𝙤𝙘𝙠𝙞𝙣𝙋𝙧𝙤𝙟𝙚𝙭
 The main site for all Projex that are Rockin!
 
 Original idea by C. T. - January 2024
