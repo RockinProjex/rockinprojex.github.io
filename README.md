@@ -13,3 +13,5 @@ The last one was using Google Sites. This was a test and I didn't want it to las
 Now, I've wound up here. This is single-handedly THE best site to host a website on.
 
 The website is self-explanatory, just open up rockinprojex.github.io in a new tab.
+
+For the changelog, see the Releases tab.
